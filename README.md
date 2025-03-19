@@ -1,9 +1,5 @@
 # Welcome to My Techy Zone! 👨‍💻🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-[![License](https://img.shields.io/github/license/yourusername/repo)](LICENSE)
-
 > **"There are 10 types of people in this world: those who understand binary and those who don't."**
 
 ## ⚡ About Me
