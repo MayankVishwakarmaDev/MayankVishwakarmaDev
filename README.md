@@ -1,14 +1,4 @@
-       _____                 _     _          
-      |  __ \               | |   (_)         
-      | |__) |___  __ _  ___| |__  _ _ __     
-      |  _  // _ \/ _` |/ __| '_ \| | '_ \    
-      | | \ \  __/ (_| | (__| | | | | |_) |   
-      |_|  \_\___|\__,_|\___|_| |_|_| .__/    
-                                    | |       
-                                    |_|       
-
-
-# Welcome to My Nerdy Techy Zone! 👨‍💻🚀
+# Welcome to My Techy Zone! 👨‍💻🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
 [![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
@@ -41,15 +31,7 @@ frameworks:
   - TailwindCSS
 DevOps:
   - Docker
-  - Kubernetes
-  - AWS
-  - CI/CD Pipelines
 ```
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📡 Let's Connect
 
